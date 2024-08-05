@@ -29,13 +29,12 @@ Option 2: And, also the dataset can be found on [Data Tutorials](https://www.you
 **Tools** 
 
 Microsoft Excel,MS SQL Server and Tableau.
+## Data Analysis & Visualization 
 ### 1. Exploratory Analysis using MS SQL Server
 
 **Insight:** Overview Requirements of the KPI's
 
 ![Alternative Text](assets/images/Findings Q1.png)
-
-## Data Analysis & Visualization 
 
 ### 2. Summary Dashboard
 
